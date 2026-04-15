@@ -40,7 +40,7 @@ The purpose of this lab is to analyze firewall traffic logs and identify:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/firewall-analysis.git
+git clone https://github.com/Zhadyrame/firewall-analysis.git
 
 cd firewall-analysis
 
